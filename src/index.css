@@ -1,0 +1,103 @@
+body {
+  margin: 20px 10% 40px 10%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+label {
+  margin: 10px;
+}
+
+input {
+  width: 25%;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar image {
+  float: left;
+}
+
+.navbar h3 {
+  margin-left: 1%;
+}
+
+.login {
+  text-align: center;
+}
+
+.login-btn {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 34%;
+  font-weight: bold;
+}
+
+.login-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.logout-btn {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 40%;
+  font-weight: bold;
+}
+
+.logout-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.main {
+  text-align: center;
+}
+
+details > summary {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid black;
+  width: 30%;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 8%;
+}
+
+textarea {
+  border: 2px solid black;
+}
+
+input {
+  border: 2px solid black;
+}
