@@ -68,4 +68,5 @@ Follow the installation and usage instructions in the README to experience a new
 2. Follow the deployment instructions in the React documentation or the platform where you plan to deploy your application.
 
 3. Configuring the Community Solid Server:
-Follow the [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServer/tree/main/documentation) documentation to configure the server for production.
+
+   Follow the [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServer/tree/main/documentation) documentation to configure the server for production.
