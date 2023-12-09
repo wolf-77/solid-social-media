@@ -234,7 +234,7 @@ function App() {
   }
 
   // ====================================
-  // Add followes (Add_FOAF_Knows)
+  // Remove followes (Remove_FOAF_Knows)
   // ====================================
   const removeFOAFKnows = async (friendUrl) => {
     if(session.info.isLoggedIn){
