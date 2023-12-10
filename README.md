@@ -1,6 +1,6 @@
 # SolidSocialMedia
 
-SolidSocial is a decentralized social media platform built on the [Solid](https://solidproject.org/) framework, empowering users with control over their personal data. Connect with friends, share posts, and discover content in a secure and privacy-focused environment. With features like seamless follow/unfollow functionality and easy post sharing, SolidSocial provides a user-friendly experience while respecting your digital rights. Explore the next generation of social networking with SolidSocial.
+SolidSocialMedia is a decentralized social media platform built on the [Solid](https://solidproject.org/) framework, empowering users with control over their personal data. Connect with friends, share posts, and discover content in a secure and privacy-focused environment. With features like seamless follow/unfollow functionality and easy post sharing, SolidSocial provides a user-friendly experience while respecting your digital rights. Explore the next generation of social networking with SolidSocial.
 
 ## Key Features
 
