@@ -110,7 +110,7 @@ function App() {
       // Save the updated SolidDataset back to the Pod
       await saveSolidDatasetAt(webID, updatedDataset, { fetch: session.fetch });
 
-      // Rest textarea
+      // Reset textarea
       setText("");
 
       await getData();
